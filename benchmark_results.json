@@ -1,0 +1,907 @@
+{
+  "model": "gpt-4o",
+  "accuracy": 0.56,
+  "n_samples": 50,
+  "results": [
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "APPLY_STYLE",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "REPLACE_MEDIA",
+      "predicted_matched": "REPLACE_MEDIA",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "REPLACE_MEDIA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "APPLY_STYLE",
+        "UPDATE_ELEMENT_SAGA",
+        "APPLY_STYLE",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": true,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "REPLACE_MEDIA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "REPLACE_MEDIA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": true,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": false,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "REPLACE_MEDIA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": true,
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "REPLACE_MEDIA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_AI_SUGGESTED_LAYER_NAMES",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "REPLACE_MEDIA",
+        "REPLACE_MEDIA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "history_types": [
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": true,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "UPDATE_ELEMENT_SAGA",
+        "APPLY_STYLE",
+        "UPDATE_ELEMENT_SAGA",
+        "APPLY_STYLE"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "REPLACE_MEDIA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    }
+  ]
+}

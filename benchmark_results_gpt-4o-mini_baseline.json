@@ -1,0 +1,1908 @@
+{
+  "model": "gpt-4o-mini",
+  "goal_conditioned": false,
+  "accuracy": 0.7,
+  "n_samples": 100,
+  "results": [
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-764",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-752",
+      "history_types": [
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1223",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-803",
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1103",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-727",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-752",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1223",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1223",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-803",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1103",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-803",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "REPLACE_MEDIA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-728",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-752",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1103",
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-679",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "REPLACE_MEDIA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-728",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "REPLACE_MEDIA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1103",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-679",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-735",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-764",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1103",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "APPLY_STYLE",
+      "predicted_matched": "APPLY_STYLE",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-679",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-752",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-692",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-735",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-728",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_AI_SUGGESTED_LAYER_NAMES",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1223",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-728",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-692",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1103",
+      "history_types": [
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-803",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "SET_LOCAL_STATE",
+      "predicted_matched": "SET_LOCAL_STATE",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-692",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-752",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-728",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-764",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-679",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-764",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-727",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-728",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-752",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1223",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-764",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-679",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1223",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-803",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-679",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1103",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-764",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "CLONE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-728",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "REPLACE_MEDIA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-692",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-728",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-679",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-886",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "CLONE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-752",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-752",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-752",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-679",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-728",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-692",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-679",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "ALIGN_ELEMENTS",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-1158",
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "ALIGN_ELEMENTS",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-692",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-922",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-735",
+      "history_types": [
+        "ALIGN_ELEMENTS",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "REPLACE_MEDIA",
+        "SET_AI_SUGGESTED_LAYER_NAMES",
+        "SET_LOCAL_STATE",
+        "ALIGN_ELEMENTS"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": true,
+      "project_id": "DSNsZv85yqoI-922",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "SET_LOCAL_STATE",
+      "predicted_raw": "UPDATE_ELEMENT_SAGA",
+      "predicted_matched": "UPDATE_ELEMENT_SAGA",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-755",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "SET_LOCAL_STATE",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    },
+    {
+      "true": "UPDATE_ELEMENT_SAGA",
+      "predicted_raw": "ALIGN_ELEMENTS",
+      "predicted_matched": "ALIGN_ELEMENTS",
+      "correct": false,
+      "project_id": "DSNsZv85yqoI-803",
+      "history_types": [
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA",
+        "UPDATE_ELEMENT_SAGA"
+      ]
+    }
+  ]
+}
